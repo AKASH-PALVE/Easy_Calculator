@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EasyCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/appbar</item>
+        <item name="android:navigationBarColor">@color/black</item>
+
+    </style>
+
+    <style name="Theme.EasyCalculator" parent="Base.Theme.EasyCalculator" />
+</resources>

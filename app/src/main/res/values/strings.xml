@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EasyCalculator</string>
+    <dimen name="button_margin">8dp</dimen>
+</resources>
